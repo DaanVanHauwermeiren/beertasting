@@ -1,0 +1,510 @@
+[
+    {
+        "beer": "bavaria pils",
+        "bitter": 2,
+        "hoppig": 4,
+        "score": 2,
+        "taster": "joeri",
+        "vol": 1,
+        "zoet": 4,
+        "zuur": 2
+    },
+    {
+        "beer": "bavaria pils",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "benjamin",
+        "vol": 1,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "bavaria pils",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "siebe",
+        "vol": 1,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "bavaria pils",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "daan",
+        "vol": 1,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "bavaria pils",
+        "bitter": 0,
+        "hoppig": 1,
+        "score": 4,
+        "taster": "jonas",
+        "vol": 1,
+        "zoet": 3,
+        "zuur": 0
+    },
+    {
+        "beer": "jupiler",
+        "bitter": 3,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "joeri",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "jupiler",
+        "bitter": 4,
+        "hoppig": 3,
+        "score": 1,
+        "taster": "benjamin",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 4
+    },
+    {
+        "beer": "jupiler",
+        "bitter": 4,
+        "hoppig": 4,
+        "score": 3,
+        "taster": "siebe",
+        "vol": 3,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "jupiler",
+        "bitter": 3,
+        "hoppig": 3,
+        "score": 3,
+        "taster": "daan",
+        "vol": 3,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "jupiler",
+        "bitter": 2,
+        "hoppig": 1,
+        "opmerking": "stella artois",
+        "score": 3,
+        "taster": "jonas",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "heineken",
+        "bitter": 3,
+        "hoppig": 1,
+        "opmerking": "niet actief slecht, saai",
+        "score": 2,
+        "taster": "joeri",
+        "vol": 1,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "heineken",
+        "bitter": 2,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "benjamin",
+        "vol": 1,
+        "zoet": 1,
+        "zuur": 2
+    },
+    {
+        "beer": "heineken",
+        "bitter": 3,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "siebe",
+        "vol": 1,
+        "zoet": 2,
+        "zuur": 2
+    },
+    {
+        "beer": "heineken",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "daan",
+        "vol": 1,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "heineken",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "jonas",
+        "vol": 1,
+        "zoet": 2,
+        "zuur": 2
+    },
+    {
+        "beer": "tyskie",
+        "bitter": 2,
+        "hoppig": 3,
+        "score": 2,
+        "taster": "joeri",
+        "vol": 1,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "tyskie",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "benjamin",
+        "vol": 2,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "tyskie",
+        "bitter": 4,
+        "hoppig": 1,
+        "opmerking": "metalig",
+        "score": 2,
+        "taster": "siebe",
+        "vol": 3,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "tyskie",
+        "bitter": 3,
+        "hoppig": 2,
+        "score": 3,
+        "taster": "daan",
+        "vol": 3,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "tyskie",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "jonas",
+        "vol": 3,
+        "zoet": 2,
+        "zuur": 3
+    },
+    {
+        "beer": "maes",
+        "bitter": 2,
+        "hoppig": 1,
+        "opmerking": "het zou echt grappig zijn als dit pils 13 is; gok jupiler",
+        "score": 1,
+        "taster": "joeri",
+        "vol": 1,
+        "zoet": 4,
+        "zuur": 2.5
+    },
+    {
+        "beer": "maes",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "benjamin",
+        "vol": 2,
+        "zoet": 2,
+        "zuur": 4
+    },
+    {
+        "beer": "maes",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "siebe",
+        "vol": 1,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "maes",
+        "bitter": 2,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "daan",
+        "vol": 4,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "maes",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "jonas",
+        "vol": 3,
+        "zoet": 0,
+        "zuur": 4
+    },
+    {
+        "beer": "brouwers pils",
+        "bitter": 4,
+        "hoppig": 4,
+        "score": 4,
+        "taster": "joeri",
+        "vol": 5,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "brouwers pils",
+        "bitter": 4,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "benjamin",
+        "vol": 2.5,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "brouwers pils",
+        "bitter": 4,
+        "hoppig": 4,
+        "score": 4,
+        "taster": "siebe",
+        "vol": 3,
+        "zoet": 1,
+        "zuur": 2
+    },
+    {
+        "beer": "brouwers pils",
+        "bitter": 4,
+        "hoppig": 4,
+        "score": 4,
+        "taster": "daan",
+        "vol": 3,
+        "zoet": 1,
+        "zuur": 1
+    },
+    {
+        "beer": "brouwers pils",
+        "bitter": 4,
+        "hoppig": 4,
+        "score": 4,
+        "taster": "jonas",
+        "vol": 4,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "pils 13",
+        "bitter": 5,
+        "hoppig": 5,
+        "opmerking": "pils 13",
+        "score": 5,
+        "taster": "joeri",
+        "vol": 5,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "pils 13",
+        "bitter": 5,
+        "hoppig": 5,
+        "score": 1,
+        "taster": "benjamin",
+        "vol": 3,
+        "zoet": 2,
+        "zuur": 3
+    },
+    {
+        "beer": "pils 13",
+        "bitter": 5,
+        "hoppig": 5,
+        "score": 4,
+        "taster": "siebe",
+        "vol": 5,
+        "zoet": 1,
+        "zuur": 3
+    },
+    {
+        "beer": "pils 13",
+        "bitter": 5,
+        "hoppig": 5,
+        "score": 5,
+        "taster": "daan",
+        "vol": 5,
+        "zoet": 1,
+        "zuur": 2
+    },
+    {
+        "beer": "pils 13",
+        "bitter": 5,
+        "hoppig": 5,
+        "score": 4,
+        "taster": "jonas",
+        "vol": 5,
+        "zoet": 1,
+        "zuur": 4
+    },
+    {
+        "beer": "warsteiner",
+        "bitter": 2,
+        "hoppig": 1,
+        "opmerking": "jupiler",
+        "score": 0,
+        "taster": "joeri",
+        "vol": 2,
+        "zoet": 5,
+        "zuur": 1
+    },
+    {
+        "beer": "warsteiner",
+        "bitter": 1,
+        "hoppig": 1,
+        "score": 3,
+        "taster": "benjamin",
+        "vol": 3,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "warsteiner",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "siebe",
+        "vol": 2,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "warsteiner",
+        "bitter": 3,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "daan",
+        "vol": 4,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "warsteiner",
+        "bitter": 2,
+        "hoppig": 1,
+        "opmerking": "jupiler",
+        "score": 3,
+        "taster": "jonas",
+        "vol": 3,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "stella artois",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "joeri",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "stella artois",
+        "bitter": 2,
+        "hoppig": 1,
+        "opmerking": "jupiler",
+        "score": 1.75,
+        "taster": "benjamin",
+        "vol": 0,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "stella artois",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 1,
+        "taster": "siebe",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "stella artois",
+        "bitter": 2,
+        "hoppig": 2,
+        "score": 2,
+        "taster": "daan",
+        "vol": 3,
+        "zoet": 3,
+        "zuur": 1
+    },
+    {
+        "beer": "stella artois",
+        "bitter": 1,
+        "hoppig": 2,
+        "score": 3,
+        "taster": "jonas",
+        "vol": 3,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "grolsch",
+        "bitter": 2,
+        "hoppig": 1,
+        "score": 2,
+        "taster": "joeri",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 2
+    },
+    {
+        "beer": "grolsch",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 3,
+        "taster": "benjamin",
+        "vol": 2,
+        "zoet": 1,
+        "zuur": 2
+    },
+    {
+        "beer": "grolsch",
+        "bitter": 3,
+        "hoppig": 2,
+        "score": 3,
+        "taster": "siebe",
+        "vol": 2,
+        "zoet": 3,
+        "zuur": 3
+    },
+    {
+        "beer": "grolsch",
+        "bitter": 3,
+        "hoppig": 1,
+        "score": 3,
+        "taster": "daan",
+        "vol": 3,
+        "zoet": 4,
+        "zuur": 1
+    },
+    {
+        "beer": "grolsch",
+        "bitter": 2,
+        "hoppig": 0,
+        "score": 2,
+        "taster": "jonas",
+        "vol": 2,
+        "zoet": 2,
+        "zuur": 3
+    }
+]
