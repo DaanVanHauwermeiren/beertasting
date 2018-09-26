@@ -1,0 +1,128 @@
+[
+    {
+        "beer": "Beer_A",
+        "hoppig": 1.5,
+        "kleur": "blond",
+        "score": 3.0,
+        "taster": "Person_1"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 3.5,
+        "kleur": "blond",
+        "score": 4.0,
+        "taster": "Person_1"
+    },
+    {
+        "beer": "Beer_B",
+        "hoppig": 2.0,
+        "kleur": "hoogblond",
+        "score": 5.0,
+        "taster": "Person_1"
+    },
+    {
+        "beer": "Beer_B",
+        "hoppig": 4.5,
+        "kleur": "blond",
+        "score": 3.0,
+        "taster": "Person_1"
+    },
+    {
+        "beer": "Beer_C",
+        "hoppig": 1.0,
+        "kleur": "blond",
+        "score": 5.0,
+        "taster": "Person_1"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 4.0,
+        "kleur": "bruin",
+        "score": 3.0,
+        "taster": "Person_2"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 3.0,
+        "kleur": "blond",
+        "score": 2.0,
+        "taster": "Person_2"
+    },
+    {
+        "beer": "Beer_B",
+        "hoppig": 2.5,
+        "kleur": "blond",
+        "score": 4.0,
+        "taster": "Person_2"
+    },
+    {
+        "beer": "Beer_C",
+        "hoppig": 5.0,
+        "kleur": "blond",
+        "score": 3.5,
+        "taster": "Person_2"
+    },
+    {
+        "beer": "Beer_D",
+        "hoppig": 2.0,
+        "kleur": "rood",
+        "score": 5.0,
+        "taster": "Person_2"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 1.5,
+        "kleur": "bruin",
+        "score": 2.5,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 3.5,
+        "kleur": "bruin",
+        "score": 1.0,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 4.0,
+        "kleur": "hoogblond",
+        "score": 2.0,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_A",
+        "hoppig": 2.0,
+        "kleur": "blond",
+        "score": 3.5,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_B",
+        "hoppig": 4.5,
+        "kleur": "blond",
+        "score": 4.0,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_B",
+        "hoppig": 3.0,
+        "kleur": "rood",
+        "score": 5.0,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_C",
+        "hoppig": 1.0,
+        "kleur": "bruin",
+        "score": 1.0,
+        "taster": "Person_3"
+    },
+    {
+        "beer": "Beer_D",
+        "hoppig": 4.0,
+        "kleur": "blond",
+        "score": 4.0,
+        "taster": "Person_3"
+    }
+]

@@ -1,0 +1,51 @@
+beer,taster,bitter,hoppig,opmerking,score,vol,zoet,zuur
+bavaria pils,joeri,2,4,,2.0,1.0,4,2.0
+bavaria pils,benjamin,2,1,,2.0,1.0,3,2.0
+bavaria pils,siebe,2,1,,2.0,1.0,3,1.0
+bavaria pils,daan,2,1,,2.0,1.0,4,1.0
+bavaria pils,jonas,0,1,,4.0,1.0,3,0.0
+jupiler,joeri,3,2,,2.0,2.0,3,1.0
+jupiler,benjamin,4,3,,1.0,2.0,3,4.0
+jupiler,siebe,4,4,,3.0,3.0,1,3.0
+jupiler,daan,3,3,,3.0,3.0,1,1.0
+jupiler,jonas,2,1,stella artois,3.0,2.0,3,2.0
+heineken,joeri,3,1,"niet actief slecht, saai",2.0,1.0,1,1.0
+heineken,benjamin,2,2,,2.0,1.0,1,2.0
+heineken,siebe,3,2,,2.0,1.0,2,2.0
+heineken,daan,3,1,,1.0,1.0,1,1.0
+heineken,jonas,2,1,,1.0,1.0,2,2.0
+tyskie,joeri,2,3,,2.0,1.0,3,2.0
+tyskie,benjamin,3,1,,1.0,2.0,1,3.0
+tyskie,siebe,4,1,metalig,2.0,3.0,1,3.0
+tyskie,daan,3,2,,3.0,3.0,3,1.0
+tyskie,jonas,3,1,,2.0,3.0,2,3.0
+maes,joeri,2,1,het zou echt grappig zijn als dit pils 13 is; gok jupiler,1.0,1.0,4,2.5
+maes,benjamin,3,1,,1.0,2.0,2,4.0
+maes,siebe,3,1,,2.0,1.0,3,1.0
+maes,daan,2,2,,2.0,4.0,3,1.0
+maes,jonas,3,1,,1.0,3.0,0,4.0
+brouwers pils,joeri,4,4,,4.0,5.0,1,1.0
+brouwers pils,benjamin,4,2,,2.0,2.5,1,1.0
+brouwers pils,siebe,4,4,,4.0,3.0,1,2.0
+brouwers pils,daan,4,4,,4.0,3.0,1,1.0
+brouwers pils,jonas,4,4,,4.0,4.0,1,3.0
+pils 13,joeri,5,5,pils 13,5.0,5.0,1,3.0
+pils 13,benjamin,5,5,,1.0,3.0,2,3.0
+pils 13,siebe,5,5,,4.0,5.0,1,3.0
+pils 13,daan,5,5,,5.0,5.0,1,2.0
+pils 13,jonas,5,5,,4.0,5.0,1,4.0
+warsteiner,joeri,2,1,jupiler,0.0,2.0,5,1.0
+warsteiner,benjamin,1,1,,3.0,3.0,4,1.0
+warsteiner,siebe,2,1,,1.0,2.0,4,1.0
+warsteiner,daan,3,2,,2.0,4.0,4,1.0
+warsteiner,jonas,2,1,jupiler,3.0,3.0,4,1.0
+stella artois,joeri,2,1,,1.0,2.0,3,1.0
+stella artois,benjamin,2,1,jupiler,1.75,0.0,3,1.0
+stella artois,siebe,3,1,,1.0,2.0,3,2.0
+stella artois,daan,2,2,,2.0,3.0,3,1.0
+stella artois,jonas,1,2,,3.0,3.0,3,2.0
+grolsch,joeri,2,1,,2.0,2.0,3,2.0
+grolsch,benjamin,3,1,,3.0,2.0,1,2.0
+grolsch,siebe,3,2,,3.0,2.0,3,3.0
+grolsch,daan,3,1,,3.0,3.0,4,1.0
+grolsch,jonas,2,0,,2.0,2.0,2,3.0
